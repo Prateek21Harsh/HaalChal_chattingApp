@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203898055944",
+    "project_id": "haalchal-3b365",
+    "storage_bucket": "haalchal-3b365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203898055944:android:f3c6af292dcb52e8f610bd",
+        "android_client_info": {
+          "package_name": "com.example.haalchal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203898055944-j99ksmm6athri3dpf2ir0caeqbsufock.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdt79OcLaP6Y5brxcOfhQQ3OHZp-oJxRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203898055944-j99ksmm6athri3dpf2ir0caeqbsufock.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
